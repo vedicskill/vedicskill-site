@@ -1,4 +1,4 @@
-# MongoDB Documentation
+# MongoDB Course
 
 Welcome to the **MongoDB Atlas Vector Database** docs.
 

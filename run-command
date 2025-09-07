@@ -1,0 +1,7 @@
+# Start the development server
+yarn docs:dev
+
+# Build for production
+
+yarn docs:build
+### This will generate the static files in the .vuepress/dist directory, ready for deployment.
