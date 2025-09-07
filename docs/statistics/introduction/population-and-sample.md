@@ -15,4 +15,4 @@ Eg:
 - Opinion Polls,
 - Quality control checks in manufacturing units, etc.
 
-![img.png](img.png)
+[//]: # (![img.png]&#40;img.png&#41;)

@@ -16,12 +16,12 @@ export default defineUserConfig({
 //    logo: '/logo.png',
     navbar: [
       { text: 'Home', link: '/' },
-      { text: 'Courses', link: 'https://www.udemy.com/user/freeai-space/' },cd
+      { text: 'Courses', link: 'https://www.udemy.com/user/freeai-space/' },
       {
         text: 'Documentation',
         children: [
-          { text: 'MongoDB Atlas Vector DB', link: '/mongodb/mongodb.html' },
-          { text: 'Statistics for Data Science', link: '/statistics/statistics.html' },
+          { text: 'MongoDB Atlas', link: '/mongodb/' },
+          { text: 'Statistics', link: '/statistics/' },
         ],
       },
       { text: 'About Us', link: '/about.html' },
@@ -38,7 +38,7 @@ export default defineUserConfig({
       ],
       '/mongodb/': [
         {
-          text: 'MongoDB Docs',
+          text: 'MongoDB',
           collapsible: true,
           children: [
             '/mongodb/README.md',
@@ -48,12 +48,28 @@ export default defineUserConfig({
       ],
       '/statistics/': [
         {
-          text: 'Statistics Docs',
+          text: 'Statistics',
           collapsible: true,
           children: [
             '/statistics/README.md',
-            '/statistics/statistics.md',
           ],
+        },
+        {
+          text: 'Introduction',
+          collapsible: true,
+          children: [
+            '/statistics/introduction/statistics.md',
+            '/statistics/introduction/population-and-sample.md',
+            '/statistics/introduction/parameter-statistics.md',
+          ]
+        },
+        {
+          text: 'Probability',
+          collapsible: true,
+          children: [
+            '/statistics/probability/probability.md',
+            '/statistics/probability/method-of-probability.md',
+          ]
         },
       ],
     },
