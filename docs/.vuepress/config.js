@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  base: '/vedicskill-site/',
+  base: '/',
   lang: 'en-US',
   title: 'Vedicskill',
   description: 'Data-driven analytics and learning with Vedicskill',
