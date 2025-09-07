@@ -16,7 +16,7 @@ export default defineUserConfig({
 //    logo: '/logo.png',
     navbar: [
       { text: 'Home', link: '/' },
-      { text: 'Courses', link: 'https://www.udemy.com/user/freeai-space/' },
+      { text: 'Courses', link: 'https://www.udemy.com/user/freeai-space/' },cd
       {
         text: 'Documentation',
         children: [
