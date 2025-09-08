@@ -11,6 +11,9 @@ export default defineUserConfig({
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     ['link', { rel: 'icon', href: '/images/favicon_io/favicon.ico' }],
   ],
+  build :{
+    ssr: true
+  },
 
   theme: defaultTheme({
 //    logo: '/logo.png',
