@@ -28,6 +28,6 @@ At Vedicskill, we design and deliver courses that help learners gain hands-on ex
 We believe that **education is the greatest equalizer**. By bridging the gap between theory and practice, we prepare individuals and organizations to thrive in the evolving digital landscape.  
 
 📌 Curious about our policies, certifications, and support?  
-Check out our [FAQs](./faqs.md).  
+Check out our [FAQs](/faqs/).  
 
 🌐 Ready to start your journey? Explore our courses here 👉 [Vedicskill on Udemy](https://www.udemy.com/user/freeai-space/)  

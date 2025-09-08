@@ -25,6 +25,7 @@ export default defineUserConfig({
         ],
       },
       { text: 'About Us', link: '/about.html' },
+      //{ text: 'FAQs', link: '/faqs/' },
     ],
     sidebar: {
     '/': [
@@ -77,6 +78,8 @@ export default defineUserConfig({
     contributors: false,
     lastUpdated: false,
   }),
+  // clean urls setting
+  cleanUrls: true,
 
   bundler: webpackBundler({
     // keep defaults; add options here if needed
