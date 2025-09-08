@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.20",
-    "@vuepress/plugin-sitemap": "^2.0.0-rc.88",
     "@vuepress/theme-default": "2.0.0-rc.88",
     "sass-embedded": "^1.86.0",
     "sass-loader": "^16.0.5",
