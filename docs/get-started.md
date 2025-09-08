@@ -32,7 +32,7 @@ Our documentation provides structured, easy-to-follow learning materials for eve
 - Code explanations  
 - Visual aids to help you understand concepts better  
 
-👉 Start with our [FAQs](./faqs.md) if you’re new here.  
+👉 Start with our [FAQs](faqs/README) if you’re new here.  
 
 ---
 
@@ -75,7 +75,7 @@ We also run a **YouTube channel** with:
 2. Follow the course documentation here on Vedicskill.  
 3. Clone our GitHub repos and start coding.  
 4. Watch our YouTube videos for extra learning.  
-5. Check out [FAQs](./faqs.md) if you have questions.  
+5. Check out [FAQs](faqs/README) if you have questions.  
 
 ---
 
