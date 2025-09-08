@@ -83,14 +83,6 @@ export default defineUserConfig({
   }),
   // clean urls setting
   cleanUrls: true,
-  plugins: [
-    [
-      '@vuepress/plugin-sitemap',
-      {
-        hostname: 'https://vedicskill.com', // Replace with your actual domain
-      },
-    ],
-  ],
 
   bundler: webpackBundler({
     // keep defaults; add options here if needed
