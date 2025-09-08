@@ -13,7 +13,7 @@ export default defineUserConfig({
   ],
   build :{
     ssr: true
-  }
+  },
 
   theme: defaultTheme({
 //    logo: '/logo.png',
